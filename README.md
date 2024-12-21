@@ -12,5 +12,6 @@ We will continue to update it in the future, and if you download this model for 
 使用帮助<br>
 D-50000 和 G-50000都是基础模型，请连同config.json文件一起放入<code>so-vits-svc\logs\44k</code>文件夹内 <br>
 浅扩散模型diffusion.pt 请连同diffusion.json一同放入<code>so-vits-svc\logs\44k\diffusion</code>文件夹内，并将diffusion.json重命名为config.json <br>
+如果你是Github新手.... 那就在网页右边找Releases 下载2.0即可 <br>
 <h3>如果你觉得我们的项目对你有帮助，请不要忘了给我们捐赠！</h3>
 <a href="https://donate.xmlans.com">给我们捐款</a>
