@@ -15,3 +15,6 @@ D-50000 和 G-50000都是基础模型，请连同config.json文件一起放入<c
 如果你是Github新手.... 那就在网页右边找Releases 下载2.0即可 <br>
 <h3>如果你觉得我们的项目对你有帮助，请不要忘了给我们捐赠！</h3>
 <a href="https://donate.xmlans.com">给我们捐款</a>
+<h4>特别感谢</h4>
+兰酱qwq Diszue 璃梦吖 <br>
+由Star Dream Cloud™提供计算服务，Made in Hong Kong
