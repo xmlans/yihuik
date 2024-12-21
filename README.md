@@ -9,6 +9,6 @@ We will continue to update it in the future, and if you download this model for 
 ** 最低配置要求 **
 如果你只下载基础模型，不一并使用浅扩散模型的话 你的显卡显存必须为8.0 GiB 或以上 <br>
 如果一并使用浅扩散模型（质量更好） 你的显卡显存必须为12.0 GiB 或以上 <br>
-== 使用帮助 ==
+使用帮助<br>
 D-50000 和 G-50000都是基础模型，请连同config.json文件一起放入<code>so-vits-svc\logs\44k</code>文件夹内 <br>
 浅扩散模型diffusion-D 和 diffusion-G 请连同diffusion.json一同放入<code>so-vits-svc\logs\44k\diffusion</code>文件夹内，并将diffusion.json重命名为config.json <br>
